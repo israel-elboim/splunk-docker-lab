@@ -21,7 +21,7 @@ You must have **Docker** and **Docker Compose** installed on your system.
 
 - **Linux (Ubuntu / Debian / Kali)**: Docker is not pre-installed. You can use one of the included setup scripts:
   - For **Ubuntu**: Use the `install_docker_ubuntu.sh` script
-  - For **Debian** or **Kali Linux**: Use the `install_docker_Debian.sh` script
+  - For **Debian** or **Kali Linux**: Use the `install_docker_debian.sh` script
 
 #### How to run the installation script (example for Ubuntu):
 
@@ -55,7 +55,7 @@ You have two options to get the files:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/israel-elboim/splunk-docker-lab.git
 ```
 
 > **Note**: Remember to replace the URL with your actual repository URL
@@ -63,7 +63,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 ### 2. Navigate to the Directory
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd splunk-docker-lab
 ```
 
 (If you downloaded the ZIP, navigate to the unzipped folder)
