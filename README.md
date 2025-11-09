@@ -58,8 +58,6 @@ Clone this repository to your local machine:
 git clone https://github.com/israel-elboim/splunk-docker-lab.git
 ```
 
-> **Note**: Remember to replace the URL with your actual repository URL
-
 ### 2. Navigate to the Directory
 
 ```bash
